@@ -1,0 +1,39 @@
+#container {
+  width: 960px;
+  margin: 20px auto;
+}
+
+#header {
+  text-align: center;
+  background: #777;
+  color: #fff;
+  height: 50px;
+  padding: 5px;
+}
+
+#content {
+  float: left;
+  width: 610px;
+  text-align: center;
+  height: 100px;
+  background: #ccc;
+  padding: 150px 5px;
+}
+
+#sidebar {
+  float: left;
+  width: 330px;
+  text-align: center
+  height: 100px;
+  background: #eee;
+  padding: 150px 5px;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+  background: #555;
+  color: #fff;
+  height: 50px;
+  padding: 5px;
+}
